@@ -1,7 +1,9 @@
+/home/[^/]+/.adobe/.*
 /home/[^/]+/.dotfiles/config/libreoffice/.*
 /home/[^/]+/.dotfiles/kodi/userdata/Thumbnails/.*
 /home/[^/]+/.dropbox-dist/.*
 /home/[^/]+/.gnome2/accels/.*
+/home/[^/]+/.macromedia/*
 /home/[^/]+/.mozilla/firefox/.*?\.default/datareporting/archived/.*
 /home/[^/]+/.mozilla/firefox/.*?\.default/storage/.*
 /home/[^/]+/gPodder/Logs/.*
