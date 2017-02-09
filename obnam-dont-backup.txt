@@ -1,10 +1,10 @@
-/home/rbrito/.dotfiles/config/libreoffice/4/.*
-/home/rbrito/.dotfiles/kodi/userdata/Thumbnails/.*
-/home/rbrito/.gnome2/accels/.*
-/home/rbrito/.mozilla/firefox/8r2s1bq3.default/datareporting/archived/.*
-/home/rbrito/.mozilla/firefox/8r2s1bq3.default/storage/.*
-/home/rbrito/gPodder/Logs/.*
-/home/rbrito/tmp/.*
+/home/[^/]+/.dotfiles/config/libreoffice/.*
+/home/[^/]+/.dotfiles/kodi/userdata/Thumbnails/.*
+/home/[^/]+/.gnome2/accels/.*
+/home/[^/]+/.mozilla/firefox/.*?\.default/datareporting/archived/.*
+/home/[^/]+/.mozilla/firefox/.*?\.default/storage/.*
+/home/[^/]+/gPodder/Logs/.*
+/home/[^/]+/tmp/.*
 /tmp/.*
 /var/cache/apt/archives/.*\.deb$
 /var/cache/apt/archives/partial/.*
